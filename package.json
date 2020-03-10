@@ -1,0 +1,23 @@
+{
+  "name": "xr-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "cs": "bin/cs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "commander": "^4.1.1",
+    "download-git-repo": "^3.0.2",
+    "esm": "^3.2.25",
+    "inquirer": "^7.0.6",
+    "ora": "^4.0.3"
+  }
+}
